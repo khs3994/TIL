@@ -8,7 +8,7 @@
 - viewmodel안에 livedata가 있다
 ```
 이해를 돕기위한 그림
-![ex_screenshot](/study%20android/imgfile/viewmodel.png)
+![ex_screenshot](imgfile/viewmodel.png)
 
 ### LiveData?
 ```

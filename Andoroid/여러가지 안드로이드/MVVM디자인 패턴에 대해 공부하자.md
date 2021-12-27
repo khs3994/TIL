@@ -25,7 +25,7 @@
 - 뷰에서 모델을 직접 참조하지 않음 대신 뷰에서 뷰모델을 관찰하여 데이터의 변경 사항을 감지함
 ```
 * 이해를 돕기위한 그림
-![ex_screenshot](/study%20android/imgfile/MVVM.png)
+![ex_screenshot](imgfile/MVVM.png)
 출처:https://aonee.tistory.com/48
 
 ### MVVM 의 장점
