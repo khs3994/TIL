@@ -19,3 +19,4 @@
 >2. [function](Andoroid/kotlin%20grammer/01.function.md)
 >3. [val,var](Andoroid/kotlin%20grammer/02.val,var.md)
 >4. [scope funtion](Andoroid/kotlin%20grammer/../kotlin%20grammer/03.scope%20funtion.md)
+>4. [collection](Android/../Andoroid/kotlin%20grammer/04.collection.md)
