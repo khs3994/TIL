@@ -16,4 +16,7 @@
 
 ### 재미있는 코틀린 문법
 >1. [변수](Andoroid/kotlin%20grammer/01.변수.md)
+>2. [자료형](Andoroid/kotlin%20grammer/02.자료형.md)
+>3. [형변환](Andoroid/kotlin%20grammer/03.형변환.md)
+>4. [배열](Andoroid/kotlin%20grammer/04.배열.md)
 
