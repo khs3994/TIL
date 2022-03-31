@@ -14,9 +14,6 @@
 ### UI
 >1. [Shape drawable을 알아보자](Andoroid/UI/shapedrawable.md)
 
-### Grammer
->1. [hello world!](Andoroid/kotlin%20grammer/00.hello%20world.md)
->2. [function](Andoroid/kotlin%20grammer/01.function.md)
->3. [val,var](Andoroid/kotlin%20grammer/02.val,var.md)
->4. [scope funtion](Andoroid/kotlin%20grammer/../kotlin%20grammer/03.scope%20funtion.md)
->4. [collection](Android/../Andoroid/kotlin%20grammer/04.collection.md)
+### 재미있는 코틀린 문법
+>1. [변수](Andoroid/kotlin%20grammer/01.변수.md)
+
