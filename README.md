@@ -19,4 +19,6 @@
 >2. [자료형](Andoroid/kotlin%20grammer/02.자료형.md)
 >3. [형변환](Andoroid/kotlin%20grammer/03.형변환.md)
 >4. [배열](Andoroid/kotlin%20grammer/04.배열.md)
-
+>5. [함수](Andoroid/kotlin%20grammer/05.함수.md)
+>6. [조건문](Andoroid/kotlin%20grammer/06.조건문.md)
+>7. [반복문](Andoroid/kotlin%20grammer/07.반복문.md)
