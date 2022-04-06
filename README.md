@@ -3,7 +3,7 @@
 ## 하루하루 배운것을 정리하는곳
 2021-12-13 ~
 
-### 여러가지 안드로이드 
+### 제일 재미있는 안드로이드
 >1. [코드추상화?](Andoroid/여러가지%20안드로이드/동작을%20메서드화%20하는%20이유.md)
 >2. [디자인패턴에 대해 알아보자](Andoroid/여러가지%20안드로이드/디자인패턴.md)
 >3. [AAC에 대해 알아보자](Andoroid/여러가지%20안드로이드/AAC에%20대해%20알아보자.md)
@@ -11,7 +11,7 @@
 >5. [SharedPreference를 알아보자](Andoroid/여러가지%20안드로이드/SharedPreferences.md)
 >6. [Repository 패턴을 알아보자](Andoroid/여러가지%20안드로이드/Repository패턴.md)
 
-### UI
+### 멋진 안드로이드 UI
 >1. [Shape drawable을 알아보자](Andoroid/UI/shapedrawable.md)
 
 ### 재미있는 코틀린 문법
@@ -25,3 +25,4 @@
 >8. [흐름제어](Andoroid/kotlin%20grammer/08.흐름제어.md)
 >9. [클래스의 기본 구조](Andoroid/kotlin%20grammer/09.클래스의%20기본%20구조.md)
 >10. [클래스의 생성자](Andoroid/kotlin%20grammer/10.클래스의%20생성자.md)
+>11. [클래스의 상속](Andoroid/kotlin%20grammer/11.%ED%81%B4%EB%9E%98%EC%8A%A4%EC%9D%98%20%EC%83%81%EC%86%8D.md)
