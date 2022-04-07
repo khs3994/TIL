@@ -26,3 +26,4 @@
 >9. [클래스의 기본 구조](Andoroid/kotlin%20grammer/09.클래스의%20기본%20구조.md)
 >10. [클래스의 생성자](Andoroid/kotlin%20grammer/10.클래스의%20생성자.md)
 >11. [클래스의 상속](Andoroid/kotlin%20grammer/11.%ED%81%B4%EB%9E%98%EC%8A%A4%EC%9D%98%20%EC%83%81%EC%86%8D.md)
+>12. [오버라이딩과 추상화](Andoroid/kotlin%20grammer/12.%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9%EA%B3%BC%20%EC%B6%94%EC%83%81%ED%99%94.md)
