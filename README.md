@@ -29,3 +29,4 @@
 >12. [오버라이딩과 추상화](Andoroid/kotlin%20grammer/12.%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9%EA%B3%BC%20%EC%B6%94%EC%83%81%ED%99%94.md)
 >13. [스코프와 접근제한자](Andoroid/kotlin%20grammer/13.%EC%8A%A4%EC%BD%94%ED%94%84%EC%99%80%20%EC%A0%91%EA%B7%BC%EC%A0%9C%ED%95%9C%EC%9E%90.md)
 >14. [고차함수와 람다함수](Andoroid/kotlin%20grammer/14.%EA%B3%A0%EC%B0%A8%ED%95%A8%EC%88%98%EC%99%80%20%EB%9E%8C%EB%8B%A4%ED%95%A8%EC%88%98.md)
+>15. [스코프 함수](Andoroid/kotlin%20grammer/15.%EC%8A%A4%EC%BD%94%ED%94%84%20%ED%95%A8%EC%88%98.md)
