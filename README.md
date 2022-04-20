@@ -10,9 +10,8 @@
 >4. [MVVM에 대해 알아보자](Andoroid/여러가지%20안드로이드/MVVM디자인%20패턴에%20대해%20공부하자.md)
 >5. [SharedPreference를 알아보자](Andoroid/여러가지%20안드로이드/SharedPreferences.md)
 >6. [Repository 패턴을 알아보자](Andoroid/여러가지%20안드로이드/Repository패턴.md)
-
-### 멋진 안드로이드 UI
->1. [Shape drawable을 알아보자](Andoroid/UI/shapedrawable.md)
+>7. [Shape drawable을 알아보자](Andoroid/UI/shapedrawable.md)
+>8. [DiffUtil을 알아보자](Andoroid/여러가지%20안드로이드/DiffUtil.md)
 
 ### 재미있는 코틀린 문법
 >1. [변수](Andoroid/kotlin%20grammer/01.변수.md)
