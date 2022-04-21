@@ -30,4 +30,5 @@
 >14. [고차함수와 람다함수](Andoroid/kotlin%20grammer/14.%EA%B3%A0%EC%B0%A8%ED%95%A8%EC%88%98%EC%99%80%20%EB%9E%8C%EB%8B%A4%ED%95%A8%EC%88%98.md)
 >15. [스코프 함수](Andoroid/kotlin%20grammer/15.%EC%8A%A4%EC%BD%94%ED%94%84%20%ED%95%A8%EC%88%98.md)
 >16. [오브젝트](Andoroid/kotlin%20grammer/16.%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8.md)
->17. [오브젝트](Andoroid/kotlin%20grammer/17.%EC%9D%B5%EB%AA%85%EA%B0%9D%EC%B2%B4%EC%99%80%20%EC%98%B5%EC%A0%80%EB%B2%84%20%ED%8C%A8%ED%84%B4.md)
+>17. [익명 객체와 옵저버 패턴](Andoroid/kotlin%20grammer/17.%EC%9D%B5%EB%AA%85%EA%B0%9D%EC%B2%B4%EC%99%80%20%EC%98%B5%EC%A0%80%EB%B2%84%20%ED%8C%A8%ED%84%B4.md)
+>18. [클래스의 다형성](Andoroid/kotlin%20grammer/18.%ED%81%B4%EB%9E%98%EC%8A%A4%EC%9D%98%20%EB%8B%A4%ED%98%95%EC%84%B1.md)
