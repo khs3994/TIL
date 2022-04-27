@@ -33,3 +33,4 @@
 >17. [익명 객체와 옵저버 패턴](Andoroid/kotlin%20grammer/17.%EC%9D%B5%EB%AA%85%EA%B0%9D%EC%B2%B4%EC%99%80%20%EC%98%B5%EC%A0%80%EB%B2%84%20%ED%8C%A8%ED%84%B4.md)
 >18. [클래스의 다형성](Andoroid/kotlin%20grammer/18.%ED%81%B4%EB%9E%98%EC%8A%A4%EC%9D%98%20%EB%8B%A4%ED%98%95%EC%84%B1.md)
 >19. [제네릭](Andoroid/kotlin%20grammer/19.%EC%A0%9C%EB%84%88%EB%A6%AD.md)
+>20. [리스트](Andoroid/kotlin%20grammer/20.List.md)
