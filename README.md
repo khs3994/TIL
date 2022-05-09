@@ -12,6 +12,8 @@
 >6. [Repository 패턴을 알아보자](Andoroid/여러가지%20안드로이드/Repository패턴.md)
 >7. [Shape drawable을 알아보자](Andoroid/UI/shapedrawable.md)
 >8. [DiffUtil을 알아보자](Andoroid/여러가지%20안드로이드/DiffUtil.md)
+>9. [Compose UI](Andoroid/여러가지%20안드로이드/Compose%20UI.md)
+>10. [안드로이드 에서의 CI/CD](Andoroid/여러가지%20안드로이드/안드로이드에서의%20CICD.md)
 
 ### 재미있는 코틀린 문법
 >1. [변수](Andoroid/kotlin%20grammer/01.변수.md)
