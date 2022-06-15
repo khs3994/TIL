@@ -16,6 +16,7 @@
 >10. [안드로이드 에서의 CI/CD](Andoroid/여러가지%20안드로이드/안드로이드에서의%20CICD.md)
 >11. [kotlin에서의 예외처리](Android/../Andoroid/여러가지%20안드로이드/kotlin에서의%20예외처리.md)
 >12. [DataStore란??](Android/../Andoroid/여러가지%20안드로이드/DataStore에%20대해%20알아보자.md)
+>13. [putExtra](Android/../Andoroid/여러가지%20안드로이드/putExtra.md)
 
 ### 재미있는 코틀린 문법
 >1. [변수](Andoroid/kotlin%20grammer/01.변수.md)
