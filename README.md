@@ -10,13 +10,16 @@
 >4. [MVVM에 대해 알아보자](Andoroid/여러가지%20안드로이드/MVVM디자인%20패턴에%20대해%20공부하자.md)
 >5. [SharedPreference를 알아보자](Andoroid/여러가지%20안드로이드/SharedPreferences.md)
 >6. [Repository 패턴을 알아보자](Andoroid/여러가지%20안드로이드/Repository패턴.md)
->7. [Shape drawable을 알아보자](Andoroid/UI/shapedrawable.md)
->8. [DiffUtil을 알아보자](Andoroid/여러가지%20안드로이드/DiffUtil.md)
->9. [Compose UI](Andoroid/여러가지%20안드로이드/Compose%20UI.md)
->10. [안드로이드 에서의 CI/CD](Andoroid/여러가지%20안드로이드/안드로이드에서의%20CICD.md)
->11. [kotlin에서의 예외처리](Android/../Andoroid/여러가지%20안드로이드/kotlin에서의%20예외처리.md)
->12. [DataStore란??](Android/../Andoroid/여러가지%20안드로이드/DataStore에%20대해%20알아보자.md)
->13. [putExtra](Android/../Andoroid/여러가지%20안드로이드/putExtra.md)
+>7. [DiffUtil을 알아보자](Andoroid/여러가지%20안드로이드/DiffUtil.md)
+>8. [Compose UI](Andoroid/여러가지%20안드로이드/Compose%20UI.md)
+>9. [안드로이드 에서의 CI/CD](Andoroid/여러가지%20안드로이드/안드로이드에서의%20CICD.md)
+>10. [kotlin에서의 예외처리](Android/../Andoroid/여러가지%20안드로이드/kotlin에서의%20예외처리.md)
+>11. [DataStore란??](Android/../Andoroid/여러가지%20안드로이드/DataStore에%20대해%20알아보자.md)
+>12. [putExtra](Android/../Andoroid/여러가지%20안드로이드/putExtra.md)
+
+### 멋진 안드로이드 UI
+>1. [Shape drawable을 알아보자](Andoroid/UI/shapedrawable.md)
+>2. [textview에 하이퍼링크를 걸어보자!](Andoroid/UI/textview%EC%97%90%20%ED%95%98%EC%9D%B4%ED%8D%BC%EB%A7%81%ED%81%AC.md)
 
 ### 재미있는 코틀린 문법
 >1. [변수](Andoroid/kotlin%20grammer/01.변수.md)
