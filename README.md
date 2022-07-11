@@ -17,6 +17,7 @@
 >11. [DataStore란??](Android/../Andoroid/여러가지%20안드로이드/DataStore에%20대해%20알아보자.md)
 >12. [putExtra](Android/../Andoroid/여러가지%20안드로이드/putExtra.md)
 >13. [customview](Android/../Andoroid/여러가지%20안드로이드/customView.md)
+>14. [권한 부여](Android/../Andoroid/여러가지%20안드로이드/권한%20부여.md)
 
 
 ### 멋진 안드로이드 UI
