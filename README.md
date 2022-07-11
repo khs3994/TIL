@@ -16,6 +16,8 @@
 >10. [kotlin에서의 예외처리](Android/../Andoroid/여러가지%20안드로이드/kotlin에서의%20예외처리.md)
 >11. [DataStore란??](Android/../Andoroid/여러가지%20안드로이드/DataStore에%20대해%20알아보자.md)
 >12. [putExtra](Android/../Andoroid/여러가지%20안드로이드/putExtra.md)
+>13. [customview](Android/../Andoroid/여러가지%20안드로이드/customView.md)
+
 
 ### 멋진 안드로이드 UI
 >1. [Shape drawable을 알아보자](Andoroid/UI/shapedrawable.md)
