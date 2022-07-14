@@ -9,4 +9,6 @@
 - 개발자가 뷰의 속성 등의 구현을 경우에 따라 상세하게 작성하지 않아도 되므로 재사용, 확장성에 용이하다.
 
 ## compose UI
+>0. [공통](/Andoroid/%EC%97%AC%EB%9F%AC%EA%B0%80%EC%A7%80%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C/compose/%EA%B3%B5%ED%86%B5.md)
 >1. [Row](/Andoroid/여러가지%20안드로이드/compose/Row.md)
+>2. [Column](/Andoroid/여러가지%20안드로이드/compose/Column.md)
