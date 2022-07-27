@@ -18,7 +18,7 @@
 >12. [putExtra](Android/../Andoroid/여러가지%20안드로이드/putExtra.md)
 >13. [customview](Android/../Andoroid/여러가지%20안드로이드/customView.md)
 >14. [권한 부여](Android/../Andoroid/여러가지%20안드로이드/권한%20부여.md)
-
+>15. [MVI 아키텍쳐](Android/../Andoroid/여러가지%20안드로이드/androidMVI.md)
 
 ### 멋진 안드로이드 UI
 >1. [Shape drawable을 알아보자](Andoroid/UI/shapedrawable.md)
