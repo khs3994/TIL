@@ -43,7 +43,10 @@
 Box의 블루 프린트
 - 일반적인 MVI 아키텍쳐를 바탕으로 Intent처리와 Model 생성을 정규화 시키기 위한것
 - 이름그대로 앱의 설계도 역할을 함
-- 앱에서 발생하는 이벤트와 앱의 상호 관계를 DSL로 선언해두면 나머지는 Box가 알아서 처리해줌
+- 앱에서 발생하는 이벤트와 앱의 상호 관계를 DSL로 선언해두면 나머지는 Box가 알아서 처리해줌<br><br>
+
+![ex_screenshot](imgfile/MVIbox.png)<br>
+- box 관점의 mvi
 
 #### SideEffect 
 - mvi에 있는 알아야 하는 개념중 한가지 이다 
