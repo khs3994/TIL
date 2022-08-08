@@ -13,3 +13,4 @@
 >1. [Row](/Andoroid/여러가지%20안드로이드/compose/Row.md)
 >2. [Column](/Andoroid/여러가지%20안드로이드/compose/Column.md)
 >3. [Box](compose/Box.md)
+>4. [Lazy Column](compose/LazyColumn.md)
