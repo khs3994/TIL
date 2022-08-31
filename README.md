@@ -25,6 +25,11 @@
 >2. [textview에 하이퍼링크를 걸어보자!](Andoroid/UI/textview%EC%97%90%20%ED%95%98%EC%9D%B4%ED%8D%BC%EB%A7%81%ED%81%AC.md)
 >3. [coil로 이미지 로딩하기](Andoroid/UI/coil.md)
 
+### 코테로 알게된 것들
+>1. [repeat](Andoroid/codingtest/repeat.md)
+>2. [replace](Andoroid/codingtest/replace.md)
+>3. [withIndex](Andoroid/codingtest/withIndex.md)
+
 ### 재미있는 코틀린 문법
 >1. [변수](Andoroid/kotlin%20grammer/01.변수.md)
 >2. [자료형](Andoroid/kotlin%20grammer/02.자료형.md)
