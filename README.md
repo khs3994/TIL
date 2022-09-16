@@ -31,6 +31,7 @@
 >3. [withIndex](Andoroid/codingtest/withIndex.md)
 >4. [sumOf,minOf,maxOf](Andoroid/codingtest/sumOf,%20minOf,%20maxOf.md)
 >5. [filter](Andoroid/codingtest/filter.md)
+>6. [indexOf](Andoroid/codingtest/indexOf.md)
 
 ### 재미있는 코틀린 문법
 >1. [변수](Andoroid/kotlin%20grammer/01.변수.md)
