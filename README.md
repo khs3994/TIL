@@ -58,3 +58,6 @@
 >18. [클래스의 다형성](Andoroid/kotlin%20grammer/18.%ED%81%B4%EB%9E%98%EC%8A%A4%EC%9D%98%20%EB%8B%A4%ED%98%95%EC%84%B1.md)
 >19. [제네릭](Andoroid/kotlin%20grammer/19.%EC%A0%9C%EB%84%88%EB%A6%AD.md)
 >20. [리스트](Andoroid/kotlin%20grammer/20.List.md)
+
+## 그 외
+>1. [객체지향 (solid)](Another/solid.md)
